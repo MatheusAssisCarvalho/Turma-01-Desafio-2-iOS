@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C172361D-2622-45A3-999A-10817DC926AE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11A3DAF8-1BCC-493B-AB6E-DA5A513F4167"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project-iOS-desafio03/View/RepoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "RepoListView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "11A3DAF8-1BCC-493B-AB6E-DA5A513F4167 - 4e1904fabe4aa516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of project_iOS_desafio03.RepoListView.viewModel : project_iOS_desafio03.RepoListViewModel"
+                  moduleName = "project-iOS-desafio03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cons723/Documents/project-iOS-desafio03/project-iOS-desafio03/View/RepoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "11A3DAF8-1BCC-493B-AB6E-DA5A513F4167 - 7634faac2d5f08a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_iOS_desafio03.RepoListView.viewModel.getter : project_iOS_desafio03.RepoListViewModel"
+                  moduleName = "project-iOS-desafio03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cons723/Documents/project-iOS-desafio03/project-iOS-desafio03/View/RepoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "11A3DAF8-1BCC-493B-AB6E-DA5A513F4167 - 690b9ab27a5d2bc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project_iOS_desafio03.RepoListView.$viewModel.getter : SwiftUI.ObservedObject&lt;project_iOS_desafio03.RepoListViewModel&gt;.Wrapper"
+                  moduleName = "project-iOS-desafio03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cons723/Documents/project-iOS-desafio03/project-iOS-desafio03/View/RepoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFE4C2BB-5D82-4555-A847-3A30301D8FFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "project-iOS-desafio03/Service/GithubService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "searchRepositories(query:sorting:order:count:page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
